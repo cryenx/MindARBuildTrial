@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MindAR-0.1.0";
 const contentToCache = [
-    "Build/WebTrial.loader.js",
-    "Build/WebTrial.framework.js",
-    "Build/WebTrial.data",
-    "Build/WebTrial.wasm",
+    "Build/MindARBuildTrial3.loader.js",
+    "Build/MindARBuildTrial3.framework.js",
+    "Build/MindARBuildTrial3.data",
+    "Build/MindARBuildTrial3.wasm",
     "TemplateData/style.css"
 
 ];
